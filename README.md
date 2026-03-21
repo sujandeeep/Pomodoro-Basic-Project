@@ -31,13 +31,13 @@ Copy
 Edit
 📦 Pomodoro-Timer
 
-├── 📄 index.html  # HTML structure
+📄 index.html  # HTML structure
 
-├── 🎨 style.css   # CSS for styling
+🎨 style.css   # CSS for styling
 
-├── ⚡ script.js    # JavaScript for timer logic
+⚡ script.js    # JavaScript for timer logic
 
-├── 📜 README.md   # Project documentation
+📜 README.md   # Project documentation
 
 💻 Installation & Usage
 
