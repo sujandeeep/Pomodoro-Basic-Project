@@ -6,13 +6,9 @@ A simple Pomodoro Timer built using HTML, CSS, and JavaScript to help improve fo
 🚀 Features
 
 ✅ Work Timer: Set to 2 minutes instead of the default 25 minutes
-
 ✅ Break Timer: Set to 2 minutes instead of 5 minutes
-
 ✅ Cycle Counter: Tracks completed Pomodoro sessions
-
 ✅ Start, Pause, and Reset Buttons for better control
-
 ✅ Pure JavaScript (No Libraries Required!)
 
 
